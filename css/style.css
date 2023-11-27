@@ -90,8 +90,9 @@ nav ul li a {
 
 section.about .empty {
     flex-basis: 37.5vw;
-    background-image: url("/img/image.webp");
+    background-image: url("/img/image.jpeg");
     background-repeat: no-repeat;
+    background-position: -5rem;
     background-size:cover;
     border-radius: var(--border-radius);
 }
